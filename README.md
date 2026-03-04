@@ -141,11 +141,5 @@ Ensured 100% data integrity between:
  Profitability Signal: Total Amount Received ($473.07M) exceeds Total Funded ($435.76M).  
  Strategic Planning: State, employment, and term-level insights support risk-based pricing decisions.  
 
-## 🔹 Dashboard Structure
-
-Summary (KPI View)  
-Overview (Trends & Distributions)  
-Detailed Loan-Level Analysis  
-
 ## Snapshot
-![Preview]()
+![Preview](https://github.com/Harshnd2004/Bank-Loan-Report-Analysis/blob/main/Snapshot%20ofbank%20Dashboard.PNG)
