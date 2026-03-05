@@ -1,4 +1,4 @@
-# Bank Loan Portfolio Analysis | Power BI + SQL + Python
+# Bank Loan Report Analysis | Power BI + SQL + Python
 
 ## Project Title 
 
