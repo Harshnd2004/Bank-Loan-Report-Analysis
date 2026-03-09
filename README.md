@@ -18,11 +18,11 @@ The objective is to:
 
 ## Tech Stack
 
-- 📊 Power BI – Interactive dashboard & KPI visualization
-- 🗃 SQL – KPI validation & aggregation queries
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) – Data analysis & visualization
-- 📁 Excel – Raw dataset source
-- 📋 Jupyter Notebook – Analytical environment
+- Power BI – Interactive dashboard & KPI visualization
+- SQL – KPI validation & aggregation queries
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) – Data analysis & visualization
+- Excel – Raw dataset source
+- Jupyter Notebook – Analytical environment
 
 ## Features / Highlights
 
